@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuums_front_end=self.webpackChunkuums_front_end||[]).push([[7026],{77026:function(u,n,e){e.r(n),e.d(n,{build:function(){return r.b}});e(74321),e(68827),e(98634),e(64201),e(2104);var r=e(61863)}}]);
